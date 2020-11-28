@@ -1,6 +1,6 @@
-package com.magnesiatech.liquibasEexample.repository;
+package com.magnesiatech.example.repository;
 
-import com.magnesiatech.liquibasEexample.repository.entity.Customer;
+import com.magnesiatech.example.repository.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

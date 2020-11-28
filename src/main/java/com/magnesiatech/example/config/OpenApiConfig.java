@@ -1,4 +1,4 @@
-package com.magnesiatech.liquibasEexample.config;
+package com.magnesiatech.example.config;
 
 import static com.google.common.base.Predicates.not;
 import static springfox.documentation.builders.PathSelectors.regex;

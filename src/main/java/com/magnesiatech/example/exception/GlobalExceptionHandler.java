@@ -1,4 +1,4 @@
-package com.magnesiatech.liquibasEexample.exception;
+package com.magnesiatech.example.exception;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.dao.DataIntegrityViolationException;

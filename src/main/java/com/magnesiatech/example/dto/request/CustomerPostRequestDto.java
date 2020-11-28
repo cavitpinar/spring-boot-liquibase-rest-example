@@ -1,4 +1,4 @@
-package com.magnesiatech.liquibasEexample.dto.request;
+package com.magnesiatech.example.dto.request;
 
 import java.io.Serializable;
 import javax.validation.constraints.NotBlank;

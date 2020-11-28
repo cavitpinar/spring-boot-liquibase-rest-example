@@ -1,4 +1,4 @@
-package com.magnesiatech.liquibasEexample.exception;
+package com.magnesiatech.example.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

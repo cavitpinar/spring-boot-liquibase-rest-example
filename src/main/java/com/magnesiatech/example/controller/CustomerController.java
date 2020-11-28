@@ -1,14 +1,13 @@
-package com.magnesiatech.liquibasEexample.controller;
+package com.magnesiatech.example.controller;
 
-import static com.magnesiatech.liquibasEexample.constants.RestApiConstants.API_VERSION_1;
-import static com.magnesiatech.liquibasEexample.constants.RestApiConstants.CUSTOMER;
+import static com.magnesiatech.example.constants.RestApiConstants.API_VERSION_1;
+import static com.magnesiatech.example.constants.RestApiConstants.CUSTOMER;
 import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 import static org.springframework.http.ResponseEntity.ok;
 
-import com.magnesiatech.liquibasEexample.constants.RestApiConstants;
-import com.magnesiatech.liquibasEexample.dto.request.CustomerPostRequestDto;
-import com.magnesiatech.liquibasEexample.repository.entity.Customer;
-import com.magnesiatech.liquibasEexample.service.CustomerService;
+import com.magnesiatech.example.dto.request.CustomerPostRequestDto;
+import com.magnesiatech.example.repository.entity.Customer;
+import com.magnesiatech.example.service.CustomerService;
 import io.swagger.annotations.ApiOperation;
 import javax.validation.Valid;
 import lombok.extern.slf4j.Slf4j;

@@ -1,4 +1,4 @@
-package com.magnesiatech.liquibasEexample.constants;
+package com.magnesiatech.example.constants;
 
 public interface RestApiConstants {
 

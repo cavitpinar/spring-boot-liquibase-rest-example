@@ -1,7 +1,7 @@
-package com.magnesiatech.liquibasEexample.service;
+package com.magnesiatech.example.service;
 
-import com.magnesiatech.liquibasEexample.repository.CustomerRepository;
-import com.magnesiatech.liquibasEexample.repository.entity.Customer;
+import com.magnesiatech.example.repository.CustomerRepository;
+import com.magnesiatech.example.repository.entity.Customer;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
